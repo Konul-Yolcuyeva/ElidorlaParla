@@ -1,0 +1,116 @@
+
+header{
+    font-size: 12px;
+    background-color: #B53471;
+    padding: 2px;
+    color: #fff;
+
+
+
+    
+    text-align: center;
+    
+}
+section{
+    background-color:#FD7272 ;
+    justify-content: space-between;
+    
+}
+.nav1layihe ul li a{
+    
+     color: #000000;
+     text-decoration: none;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     font-family: 'Fuzzy Bubbles', cursive;
+     font-size: 18px;
+     
+
+}
+.nav1layihe ul li{
+    list-style: none; 
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+   
+    
+}
+.nav1layihe ul{
+    display: flex;
+    padding: 0;
+    
+       
+}
+
+article{
+background-color:#D6A2E8;
+padding:20px;
+
+
+}
+ .paragraf1eli{
+    color: #fff;
+    background-color:#FDA7DF;
+    display: inline;
+ text-align: unset; 
+}
+.paragraf2kurs{
+
+    color: #B53471;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.nav2image ul li {
+    list-style: none; 
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.nav2image ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+.nav3IELTS ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+   
+}
+.nav3IELTS ul li{
+    list-style: none; 
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: #000000;
+    /* background-color:#6F1E51 ; */
+
+}
+
+.navimageelidor{
+    object-fit: contain;
+    padding: 10px;
+}
+.qutu1{
+    display: flex;
+    justify-content: space-between;
+    padding:50px;
+    background-image: url("https://elidorlaparla.az/storage/app/media/initial/elidor-aze.png");
+    background-size: 1300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: contain;
+    /* margin-right: 0; */
+
+}
+footer{
+    background-color: #B53471;
+    padding:10px;
+    text-align: center;
+    
+}
+.qutu5adres{
+    background: #FEA47F;
+}
